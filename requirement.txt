@@ -1,0 +1,20 @@
+-about us 3alouwel w m3aha logo
+-ba3d partie produits
+-w ba3d partie les services
+-ba3d "ce qui nous avons fait confiance"
+-ba3d contacts b insta fb tiktok links
+
+
+
+Welcome to the STUVALPI ALWEN company, 
+where joy and happiness have no age or limit.
+  As a company specializing in the production of games, toys and animation products, we invite you into our world to live great experiences together.
+Color your ideas, color your paths.
+
+href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#products">products</a></li>
+          <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
+          <li><a class="nav-link scrollto" href="#team">Team</a></li>
+ULA connexion local privé 
+GUA global private connection 
